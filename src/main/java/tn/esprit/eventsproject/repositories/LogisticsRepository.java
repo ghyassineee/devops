@@ -1,7 +1,7 @@
 package tn.esprit.eventsproject.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import tn.esprit.eventsproject.entities.Logistics;
+import tn.esprit.eventsproject.dao.Logistics;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package tn.esprit.eventsproject.entities;
+package tn.esprit.eventsproject.dao;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;
