@@ -18,10 +18,10 @@ services:
     volumes:
       -  /home/mysql/yassinedata:/var/lib/mysql:rw
     networks:
-      - kaddem
+      - event
     environment:
       - MYSQL_ROOT_PASSWORD=root
       - MYSQL_DATABASE=eventsProject
 
 networks:
-  kaddem:
+  event:
